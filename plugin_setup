@@ -1,0 +1,16 @@
+Eclipse
+http://marketplace.eclipse.org/
+http://download.eclipse.org/mpc/indigo/
+http://download.eclipse.org/mpc/mars/
+
+表设计插件
+ERM
+https://sourceforge.net/projects/ermaster/files/latest/download
+
+Apache tomcat server  支持
+1、help -> eclipse marketplace... -> 
+    Find "apache" ->Eclipse JST Server Adapters(Apache Tomcat,JOnAS,J2EE)
+2、install 
+
+
+
